@@ -13,7 +13,7 @@ If no applicable rules were found during the scan or a rule marked final was use
 
 To mark a rule final, put a dot after the arrow: ``# -> .|``
 
-For empty word, write ``a -> `` or `` -> b``.
+For empty word, write ``a ->`` or ``-> b``.
 
 Some algorithms may have undefined outputs for certain inputs, so the program might enter an infinite loop. There's no way to figure out whether this will happen in general, according to the [Halting problem](https://en.wikipedia.org/wiki/Halting_problem).
 
