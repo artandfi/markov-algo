@@ -7,7 +7,7 @@ A program to write &amp; run Markov algorithms on natural numbers.
 ## Rules
 Rules should be of form a -> b where a and b are some sequences of characters.
 
-Rules are scanned through from top to bottom until for given input it contains the left hand side of some rule. A first occurence of such substring is replaced by the rule's right hand side. Then, the scan repeats.
+Rules are scanned through from top to bottom until for given input it contains the left hand side of some rule. A first occurence of such substring is replaced by the rule's right hand side. Then, the scan goes from top to bottom again.
 
 If no applicable rules were found during the scan or a rule marked final was used, the algorithm halts.
 
