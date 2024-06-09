@@ -44,3 +44,6 @@ Output: ||||||
 ```
 
 To add two numbers in unary system, we can simply remove the separator between them. 
+
+## References
+Шкільняк, С. С. Ш66 Математична логіка; Основи теорії алгоритмів : навч. посіб. / С. С. Шкільняк. — К.: ДП «Вид. дім «Персонал», 2009. — 280 с. — https://maup.com.ua/assets/files/lib/book/mat_log.pdf
